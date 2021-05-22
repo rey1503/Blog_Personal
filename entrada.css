@@ -1,0 +1,57 @@
+body{
+    background: url(97628387-ilustración-de-vector-de-patrones-ornamentales-sin-fisuras.jpg);
+    background-repeat: repeat;
+}
+#Bie{
+    background:blue;
+    text-align: center;
+    position: absolute;
+    left: 450px;
+    width: 150%;
+}
+#fotop{
+    position: absolute;
+    left: 590px;
+    top: 70px;
+}
+#pub{
+    background:blue;
+    text-align: center;
+    position: absolute;
+    left: 500px;
+    width: 100%;
+    top: 180px;
+}
+#resul{
+    text-align: center;
+    border: 1px solid;
+    height: 200px;
+width: 300px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: relative;
+    left: 500px;
+    top: 300px;
+
+}
+#ultimo{
+    text-align: center;
+    position: absolute;
+    left: 950px;
+    width: 100%;
+    top: 10px;
+}
+#ultimo1{
+    text-align: center;
+    position: absolute;
+    width: 50%;
+    top: 175px;
+    left:650px;
+}
+#ultimo2{
+    text-align: center;
+    position: absolute;
+    width: 50%;
+    top: 175px;
+    left:490px;
+}

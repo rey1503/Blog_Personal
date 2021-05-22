@@ -1,0 +1,35 @@
+body{
+    background: blueviolet;
+}
+#idd{
+    border: none;
+    background-color: rgba(0, 0, 0, 0.0);
+    text-align: center;
+}
+#ima{
+  background: violet;
+  position: absolute;
+  left: 40%;
+  text-align: center;
+  width: 350px;
+  height: 60%;
+}
+#idd1{
+    border-color: rgb(5, 138, 138);
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.0);
+    text-align: center;
+  }
+  #ac{
+      position: absolute;
+      top: 70%;
+      left: 40%;
+  }
+  #mage{
+      position: absolute;
+      left: 5%;
+  }
+  #caja{
+      position: absolute;
+      top: 130px;
+  }
